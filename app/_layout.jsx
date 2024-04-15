@@ -2,7 +2,7 @@ import { StyleSheet, Text, View } from 'react-native'
 import { Slot, SplashScreen, Stack } from 'expo-router'
 import {useFonts} from "expo-font"
 import { useEffect } from 'react';
-import GlobalProvider from '../context/GlobalProvider'
+import GlobalProvider from '../context/GlobalProvider';
 
 
 
